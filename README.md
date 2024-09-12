@@ -9,4 +9,4 @@ https://roadmap.sh/projects/portfolio-website
 
 [![Captura-de-pantalla-2024-09-12-101526.png](https://i.postimg.cc/9fyYt6nW/Captura-de-pantalla-2024-09-12-101526.png)](https://postimg.cc/kVXS7pCZ)
 
-<a src="https://estebanpajarodev.github.io/proyecto3RM.github.io/"> visita la pagina </a>
+visita la pagina: https://estebanpajarodev.github.io/proyecto3RM.github.io/
