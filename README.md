@@ -6,4 +6,5 @@
 https://roadmap.sh/projects/portfolio-website
 
 <h3>Captura de pantalla</h3>
+
 [![Captura-de-pantalla-2024-09-12-101526.png](https://i.postimg.cc/9fyYt6nW/Captura-de-pantalla-2024-09-12-101526.png)](https://postimg.cc/kVXS7pCZ)
