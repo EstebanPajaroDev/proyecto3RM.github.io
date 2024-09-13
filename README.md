@@ -10,7 +10,7 @@ Tecnologias Usadas
 </h2> 
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 <h3>Captura de pantalla</h3>
 
